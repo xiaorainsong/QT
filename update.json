@@ -2,14 +2,14 @@
 "PulseSensor":
 	{
 		"LatestVerison":"2.0",
-		"Url":"https://github.com/xiaorainsong/QT/raw/master/UpDate_protected.exe",
+		"Url":"https://raw.githubusercontent.com/xiaorainsong/QT/master/UpDate_protected.exe",
 		"UpdateTime":"2021-01-20",
       	"ReleaseNote":"\n1.添加检查更新说明，包含版本号，下载链接，更新时间，更新说明.\n2.优化“关于”界面"
 	},
 "RGBContrl":
 	{
 		"LatestVerison":"1.0",
-		"Url":"https://github.com/xiaorainsong/QT/raw/master/UpDate_protected.exe",
+		"Url":"https://raw.githubusercontent.com/xiaorainsong/QT/master/UpDate_protected.exe",
 		"UpdateTime":"2021-1-19",
        	"ReleaseNote":"版本说明"
 	}
